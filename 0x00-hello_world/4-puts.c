@@ -1,6 +1,5 @@
 #include <stdio.h>
-
-     int main(void){
+int main(void){
 /** this is how to use puts
  * Return:0
  */
