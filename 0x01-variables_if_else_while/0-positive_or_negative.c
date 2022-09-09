@@ -1,10 +1,9 @@
 #include <stdlib.h>
 #include <time.h>
-#include <unistd.h>
 #include <stdio.h>
 
 /**
- * main - Assign a random number to the variable n each time it is executed
+ * main - This function generates a random number and checks if it is positive negative or equal to zero.
  * Return: 0
  */
 int main(void)
