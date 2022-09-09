@@ -10,7 +10,7 @@ int main(void)
 	long int long_print;
 	long long int long_long_print;
 	float floating_points;
-
+	
 	printf("Size of a char: %d byte(s)\n", sizeof(single_character));
 	printf("Size of an int: %d byte(s)\n", sizeof(inter));
 	printf("Size of a long int: %d byte(s)\n", sizeof(long_print));
